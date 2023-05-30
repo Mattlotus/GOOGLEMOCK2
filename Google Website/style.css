@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(83, 81, 81);
+}
+.navContainer{
+    /* border: solid black; */
+    height: 4vh;
+    margin: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+.apps{
+    background-color: rgb(83,81,81);
+    color: white;
+}
+.about{
+    background-color: rgb(83,81,81);
+    color: white;
+}
+.store{
+    background-color: rgb(83,81,81);
+    color: white;
+}
+.gmail{
+    background-color: rgb(83,81,81);
+    color: white;
+}
+.images{
+    background-color: rgb(83,81,81);
+    color: white;
+}
+.profile{
+    background-color: rgb(83,81,81);
+    color: white;
+}
+.logo{
+    height: 24px;
+}
+.logo2{
+    width: 22px;
+    border-radius: 11px;
+}
+.logo3{
+    /* border: solid  purple; */
+    margin-left: 40%;
+    width: 272px;
+    margin-top: 185px;
+    
+    
+}
+
+.mainImg{
+    /* border: solid blue; */
+    height: 290px;
+    margin: 1em;
+
+}
+.searchContainer{
+    /* border: solid red; */
+    height: 8vh;
+    margin: 1em;
+
+
+}
+.buttonsContainer{
+    /* border: solid purple; */
+    height: 8vh;
+    margin: 1em;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.search{
+    /* border: solid green; */
+    margin-left: 35%;
+    width: 25%;
+    height: 33px;
+    border-radius: 2px;
+    
+}
+.GoogleSearch{
+    margin-left: 40%;
+    margin-bottom: 40px;
+}
+.imfeelinglucky{
+    margin-right: 44%;
+    margin-bottom: 40px;
+}
